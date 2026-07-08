@@ -1,6 +1,6 @@
 # Interactive Sales Performance Dashboard
 
-![Sales Dashboard Preview](Database/dashboard.png)
+![Sales Dashboard Preview](Database/sales_dashboard.png)
 
 
 An interactive, executive-ready Excel Sales Dashboard designed to track, analyze, and visualize retail sales data. This dashboard provides key business metrics, geographic insights, temporal trends, and product performance indicators to support data-driven decision-making.
